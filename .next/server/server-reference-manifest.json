@@ -1,0 +1,39 @@
+{
+  "node": {
+    "40fd868bbdb66ed9e479e99a2c843b68a54d6324fa": {
+      "workers": {
+        "app/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/products/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/products/page": "action-browser"
+      }
+    },
+    "701020ff1562c603f3ea9c2424f95e688999eb27d9": {
+      "workers": {
+        "app/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/products/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/products/page": "action-browser"
+      }
+    },
+    "40899d6fa9a65bccbcaaae33b4f7773d03c5e59b32": {
+      "workers": {
+        "app/prayer/page": {
+          "moduleId": "[project]/.next-internal/server/app/prayer/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/prayer-suggestion.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/prayer/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Rn3tYtSRJSK5kfMbP3nxAHbw2nI57/zlLigPpvgIoZQ="
+}

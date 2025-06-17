@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40899d6fa9a65bccbcaaae33b4f7773d03c5e59b32": {
+      "workers": {
+        "app/prayer/page": {
+          "moduleId": "[project]/.next-internal/server/app/prayer/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/prayer-suggestion.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/prayer/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
